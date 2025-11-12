@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|d:\\nt106\\lab3\\duybao1001-nt106-lab03\\bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|solutionrelative:bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|d:\\nt106\\lab3\\duybao1001-nt106-lab03\\bai6\\lab3_bai6_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|solutionrelative:bai6\\lab3_bai6_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|d:\\nt106\\lab3\\duybao1001-nt106-lab03\\bai6\\lab3_bai6_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|solutionrelative:bai6\\lab3_bai6_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|d:\\nt106\\lab3\\duybao1001-nt106-lab03\\bai6\\lab3_bai6_server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|solutionrelative:bai6\\lab3_bai6_server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|d:\\nt106\\lab3\\duybao1001-nt106-lab03\\bai6\\lab3_bai6_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|solutionrelative:bai6\\lab3_bai6_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|d:\\nt106\\lab3\\duybao1001-nt106-lab03\\bai6\\lab3_bai6_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|solutionrelative:bai6\\lab3_bai6_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|d:\\nt106\\lab3\\duybao1001-nt106-lab03\\bai6\\lab3_bai6_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|solutionrelative:bai6\\lab3_bai6_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|d:\\nt106\\lab3\\duybao1001-nt106-lab03\\bai6\\lab3_bai6_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D89DB600-4975-49BF-A09F-5F0489B45A50}|Bai6\\Bai6.csproj|solutionrelative:bai6\\lab3_bai6_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 5,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\Program.cs",
+              "RelativeDocumentMoniker": "Bai6\\Program.cs",
+              "ToolTip": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\Program.cs",
+              "RelativeToolTip": "Bai6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T03:09:40.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab3_bai6_server.cs",
+              "DocumentMoniker": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\lab3_bai6_server.cs",
+              "RelativeDocumentMoniker": "Bai6\\lab3_bai6_server.cs",
+              "ToolTip": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\lab3_bai6_server.cs",
+              "RelativeToolTip": "Bai6\\lab3_bai6_server.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAqwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T03:09:27.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab3_bai6_server.cs [Design]",
+              "DocumentMoniker": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\lab3_bai6_server.cs",
+              "RelativeDocumentMoniker": "Bai6\\lab3_bai6_server.cs",
+              "ToolTip": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\lab3_bai6_server.cs [Design]",
+              "RelativeToolTip": "Bai6\\lab3_bai6_server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T03:09:22.532Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab3_bai6_server.Designer.cs",
+              "DocumentMoniker": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\lab3_bai6_server.Designer.cs",
+              "RelativeDocumentMoniker": "Bai6\\lab3_bai6_server.Designer.cs",
+              "ToolTip": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\lab3_bai6_server.Designer.cs",
+              "RelativeToolTip": "Bai6\\lab3_bai6_server.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T03:09:21.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lab3_bai6_db.cs",
+              "DocumentMoniker": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\lab3_bai6_db.cs",
+              "RelativeDocumentMoniker": "Bai6\\lab3_bai6_db.cs",
+              "ToolTip": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\lab3_bai6_db.cs",
+              "RelativeToolTip": "Bai6\\lab3_bai6_db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T03:09:04.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lab3_bai6_db.cs [Design]",
+              "DocumentMoniker": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\lab3_bai6_db.cs",
+              "RelativeDocumentMoniker": "Bai6\\lab3_bai6_db.cs",
+              "ToolTip": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\lab3_bai6_db.cs [Design]",
+              "RelativeToolTip": "Bai6\\lab3_bai6_db.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T03:09:01.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lab3_bai6_client.cs",
+              "DocumentMoniker": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\lab3_bai6_client.cs",
+              "RelativeDocumentMoniker": "Bai6\\lab3_bai6_client.cs",
+              "ToolTip": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\lab3_bai6_client.cs",
+              "RelativeToolTip": "Bai6\\lab3_bai6_client.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T03:08:42.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lab3_bai6_client.cs [Design]",
+              "DocumentMoniker": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\lab3_bai6_client.cs",
+              "RelativeDocumentMoniker": "Bai6\\lab3_bai6_client.cs",
+              "ToolTip": "D:\\NT106\\Lab3\\DuyBao1001-NT106-Lab03\\Bai6\\lab3_bai6_client.cs [Design]",
+              "RelativeToolTip": "Bai6\\lab3_bai6_client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T03:08:31.253Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
