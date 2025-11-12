@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Other
+*.pdb
+*.db
+*.cache
+*.log
+*.tmp
+*.bak
+*.dll
+*.exe
+*.vsidx
+*.slnx.sqlite
+
