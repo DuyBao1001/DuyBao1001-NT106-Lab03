@@ -1,0 +1,9 @@
+D:\Download\Lập trình mạng căn bản\Text\DuyBao1001-NT106-Lab03\Bai1\bin\Debug\Bai1.exe.config
+D:\Download\Lập trình mạng căn bản\Text\DuyBao1001-NT106-Lab03\Bai1\bin\Debug\Bai1.exe
+D:\Download\Lập trình mạng căn bản\Text\DuyBao1001-NT106-Lab03\Bai1\bin\Debug\Bai1.pdb
+D:\Download\Lập trình mạng căn bản\Text\DuyBao1001-NT106-Lab03\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\Download\Lập trình mạng căn bản\Text\DuyBao1001-NT106-Lab03\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+D:\Download\Lập trình mạng căn bản\Text\DuyBao1001-NT106-Lab03\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+D:\Download\Lập trình mạng căn bản\Text\DuyBao1001-NT106-Lab03\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\Download\Lập trình mạng căn bản\Text\DuyBao1001-NT106-Lab03\Bai1\obj\Debug\Bai1.exe
+D:\Download\Lập trình mạng căn bản\Text\DuyBao1001-NT106-Lab03\Bai1\obj\Debug\Bai1.pdb

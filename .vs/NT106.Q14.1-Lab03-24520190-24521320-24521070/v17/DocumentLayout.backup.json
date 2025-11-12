@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|d:\\download\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\text\\duybao1001-nt106-lab03\\bai5\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|solutionrelative:bai5\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|d:\\download\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\text\\duybao1001-nt106-lab03\\bai5\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|solutionrelative:bai5\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|d:\\download\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\text\\duybao1001-nt106-lab03\\bai5\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|solutionrelative:bai5\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|d:\\download\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\text\\duybao1001-nt106-lab03\\bai5\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|solutionrelative:bai5\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|d:\\download\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\text\\duybao1001-nt106-lab03\\bai5\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|solutionrelative:bai5\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|d:\\download\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\text\\duybao1001-nt106-lab03\\bai5\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|solutionrelative:bai5\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|d:\\download\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\text\\duybao1001-nt106-lab03\\bai5\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|solutionrelative:bai5\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|d:\\download\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\text\\duybao1001-nt106-lab03\\bai5\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD93124-0761-4AC2-A9E7-4FD9AB700256}|Bai5\\Bai5.csproj|solutionrelative:bai5\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai5.cs",
+              "DocumentMoniker": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Bai5.cs",
+              "RelativeDocumentMoniker": "Bai5\\Bai5.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Bai5.cs",
+              "RelativeToolTip": "Bai5\\Bai5.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:04:16.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.Designer.cs",
+              "DocumentMoniker": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Client.Designer.cs",
+              "RelativeDocumentMoniker": "Bai5\\Client.Designer.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Client.Designer.cs",
+              "RelativeToolTip": "Bai5\\Client.Designer.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:00:43.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Client.cs",
+              "RelativeDocumentMoniker": "Bai5\\Client.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Client.cs",
+              "RelativeToolTip": "Bai5\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:00:39.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Client.cs",
+              "RelativeDocumentMoniker": "Bai5\\Client.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Client.cs [Design]",
+              "RelativeToolTip": "Bai5\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:00:24.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Server.cs",
+              "RelativeDocumentMoniker": "Bai5\\Server.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Server.cs",
+              "RelativeToolTip": "Bai5\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:59:00.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Server.Designer.cs",
+              "DocumentMoniker": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Server.Designer.cs",
+              "RelativeDocumentMoniker": "Bai5\\Server.Designer.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Server.Designer.cs",
+              "RelativeToolTip": "Bai5\\Server.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:58:54.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Server.cs",
+              "RelativeDocumentMoniker": "Bai5\\Server.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Server.cs [Design]",
+              "RelativeToolTip": "Bai5\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:58:49.728Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai5.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Bai5.cs",
+              "RelativeDocumentMoniker": "Bai5\\Bai5.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\Text\\DuyBao1001-NT106-Lab03\\Bai5\\Bai5.cs [Design]",
+              "RelativeToolTip": "Bai5\\Bai5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:53:10.234Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
