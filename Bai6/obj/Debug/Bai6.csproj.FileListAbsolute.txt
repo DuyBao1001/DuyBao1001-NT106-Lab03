@@ -1,0 +1,11 @@
+D:\UIT\Kì 3\NT106\Thực hành\LAB3\DuyBao1001-NT106-Lab03\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
+D:\UIT\Kì 3\NT106\Thực hành\LAB3\DuyBao1001-NT106-Lab03\Bai6\obj\Debug\Bai6.Properties.Resources.resources
+D:\UIT\Kì 3\NT106\Thực hành\LAB3\DuyBao1001-NT106-Lab03\Bai6\obj\Debug\Bai6.csproj.GenerateResource.cache
+D:\UIT\Kì 3\NT106\Thực hành\LAB3\DuyBao1001-NT106-Lab03\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+D:\UIT\Kì 3\NT106\Thực hành\LAB3\DuyBao1001-NT106-Lab03\Bai6\bin\Debug\Bai6.exe.config
+D:\UIT\Kì 3\NT106\Thực hành\LAB3\DuyBao1001-NT106-Lab03\Bai6\bin\Debug\Bai6.exe
+D:\UIT\Kì 3\NT106\Thực hành\LAB3\DuyBao1001-NT106-Lab03\Bai6\bin\Debug\Bai6.pdb
+D:\UIT\Kì 3\NT106\Thực hành\LAB3\DuyBao1001-NT106-Lab03\Bai6\bin\Debug\System.Data.SQLite.dll
+D:\UIT\Kì 3\NT106\Thực hành\LAB3\DuyBao1001-NT106-Lab03\Bai6\obj\Debug\Bai6.csproj.Up2Date
+D:\UIT\Kì 3\NT106\Thực hành\LAB3\DuyBao1001-NT106-Lab03\Bai6\obj\Debug\Bai6.exe
+D:\UIT\Kì 3\NT106\Thực hành\LAB3\DuyBao1001-NT106-Lab03\Bai6\obj\Debug\Bai6.pdb
